@@ -1,0 +1,2 @@
+[Plot] One box per department (CSE, ECE, EEE) showing
+median, Q1, Q3, whiskers and outliers.

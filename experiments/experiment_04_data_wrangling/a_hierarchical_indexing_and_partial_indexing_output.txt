@@ -1,0 +1,15 @@
+Department   Branch
+Engineering  CSE          85
+             ECE          78
+Science      Physics      92
+             Chemistry    88
+dtype: int64
+Branch
+CSE    85
+ECE    78
+dtype: int64
+85
+Branch
+Physics      92
+Chemistry    88
+dtype: int64

@@ -1,0 +1,7 @@
+          Python  Java  C++
+Student1      85    75   80
+Student2      90    82   76
+Student3      78    80   85
+Student4      88    85   90
+[Plot 1] Three bars side by side per student
+[Plot 2] One stacked bar per student (Python+Java+C++)

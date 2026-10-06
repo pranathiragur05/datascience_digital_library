@@ -1,0 +1,11 @@
+    Name_DF1  Marks_DF1 Grade_DF1 Name_DF2  Marks_DF2 Grade_DF2
+101     Ravi       85.0         A     Ravi       90.0      None
+102     Sita        NaN         B     Sita       88.0         A
+103     Arun       78.0      None      NaN        NaN       NaN
+104      NaN        NaN       NaN    Kiran       82.0         B
+
+      Name  Marks Grade
+101   Ravi   85.0     A
+102   Sita   88.0     B
+103   Arun   78.0  None
+104  Kiran   82.0     B

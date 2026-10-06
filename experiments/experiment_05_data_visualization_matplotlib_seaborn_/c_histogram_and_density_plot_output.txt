@@ -1,0 +1,2 @@
+[Plot 1] Histogram of Marks (6 bins, frequency on y-axis)
+[Plot 2] Smooth filled density curve of Marks

@@ -1,0 +1,14 @@
+                       2025  2026
+Department  Branch
+Engineering CSE          85    90
+            ECE          78    82
+Science     Physics      92    95
+            Chemistry    88    91
+
+             2025                    2026
+Branch        CSE ECE Chemistry Physics CSE ECE Chemistry Physics
+Department
+Engineering    85  78       NaN     NaN  90  82       NaN     NaN
+Science       NaN NaN      88.0    92.0 NaN NaN      91.0    95.0
+
+(stack() returns the original hierarchical layout)
